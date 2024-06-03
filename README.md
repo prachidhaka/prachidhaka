@@ -23,9 +23,13 @@ Insights:
 - Project 2: Creating interactive dashboards with Power-BI :
 
 -Built interactive dashboard: Utilized Power BI to create a real-time view of credit card operations.
+
 -Leveraged transaction & customer data: Combined data from both sources to gain comprehensive insights.
+
 -Streamlined data processing: Optimized data handling for efficient analysis.
+
 -Monitored key performance metrics: Tracked essential indicators for informed decision-making.
+
 -Identified trends: Discovered patterns and insights within the data.
 
 ![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/7d2950a5-c482-478a-9a01-6518949d6697)
