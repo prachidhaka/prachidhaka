@@ -1,8 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning Data Science ...                                                  
 
-Linkedin:                                                                                                   https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
-
 Here's what you'll find in my repositories:
 
 ## Table of Contents
@@ -97,7 +95,7 @@ https://github.com/prachidhaka/Python/blob/main/Retail%20Data%20Analysis%20(Proj
 
 - Data Visualization
 
-Feel free to Connect via https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
+Feel free to Connect via  **Linkedin:**   https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
 
 **Learning:** Data Science Specialization (Machine Learning, Statistics ) 
 
