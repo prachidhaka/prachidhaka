@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-**Prachi** 
-**Welcome to my data analysis and visualization projects repository! Here, you will find a collection of projects that showcase my skills in Excel, Power BI, Python, and SQL. Each project includes detailed descriptions, visualizations, and insights.**
+###**Prachi** 
+
 
  🌱 I’m currently learning Data Science ...
+
+
+**Welcome to my data analysis and visualization projects repository! Here, you will find a collection of projects that showcase my skills in Excel, Power BI, Python, and SQL. Each project includes detailed descriptions, visualizations, and insights.**
+
+
 
 I'm passionate about **data analysis** and diving into the exciting world of **data science**.
 **A collection of data analysis and visualization projects using Excel, Power BI, Python, and SQL. These projects showcase my skills in data manipulation, analysis, and dashboard creation.**
