@@ -5,10 +5,15 @@
 Here's what you'll find in my repositories:
 
 ## Table of Contents
+
 -Data Analysis Projects :
+
 -Excel Projects :
+
 -Power-bi Projects :
+
 -SQL Projects:
+
 -Python Projects:
 
 
@@ -22,11 +27,17 @@ This repository showcases my data analysis & visualization skills using Excel, P
 
 ### Key Skills:
 -Data Gathering 
+
 -Pivot Tables
+
 -Data Cleaning 
+
 -Data Analysis
+
 -Visualization
+
 -Reporting 
+
 -Interactive Dashboards
 
 https://github.com/prachidhaka/Excel/blob/main/Consumer%20complaint%20analysis%20.xlsx
@@ -55,8 +66,11 @@ https://github.com/prachidhaka/Excel/blob/main/Consumer%20complaint%20analysis%2
 https://github.com/prachidhaka/Power--BI
 
 ### Key Skills
+
 - Data Visualization
+
 - DAX (Data Analysis Expressions)
+
 - Interactive Reports
 
 ### SQL:-
@@ -64,8 +78,11 @@ https://github.com/prachidhaka/Power--BI
 https://github.com/prachidhaka/SQL
 
 ### Key Skills
+
 - Database Design
+
 - SQL Queries
+
 - Data Manipulation
 
 
@@ -74,7 +91,9 @@ https://github.com/prachidhaka/SQL
 https://github.com/prachidhaka/Python/blob/main/Retail%20Data%20Analysis%20(Project).ipynb
 
 ### Key Skills
+
 - Data Preprocessing
+
 - Data Visualization
 
 Feel free to Connect via https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
