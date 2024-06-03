@@ -23,7 +23,7 @@ This repository showcases my data analysis & visualization skills using Excel, P
 
 1- Consumer Complaint analysis 
 
-###In this project, I performed 
+### In this project, I performed 
 
 ### Key Skills:
 -Data Gathering 
@@ -47,7 +47,7 @@ https://github.com/prachidhaka/Excel/blob/main/Consumer%20complaint%20analysis%2
 
 2- Content Strategy Optimization (Traffic & Audience Analysis) :
 
-##In this project, I performed :
+## In this project, I performed :
 
 -Analyzed traffic and behavior data to identify top-performing content categories—Animals (21.4%) and Science (20.3%)—and developed a data-driven content strategy.
 
