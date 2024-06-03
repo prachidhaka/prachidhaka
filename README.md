@@ -1,7 +1,29 @@
 ## Hi there 👋
 
-**I am Prachi** 
+**Hi! I'm Prachi,** a Data Science learner. 
 
+This repository showcases my data analysis & visualization skills using Excel, Power BI, Python & SQL. 
+
+### 📊 Excel:-
+
+- Consumer Complaint analysis ( Data Gathering, Data Cleaning, Data Analysis and Visualization, Data Reporting , And Making Interactive Dashboard ) 
+- Content Strategy Optimization (Traffic & Audience Analysis) 
+
+### Power-Bi :-
+
+- Financial Dashboard in Power BI (Real-time Credit Card Operations) 
+- Customer Segmentation with Python (Purchasing Behavior) 
+- Database Management with SQL (Retail Customer Analysis) 
+
+**Learning:** Data Science Specialization (Machine Learning, Statistics) 
+
+**Open to:** Collaboration on Data Analysis & Data Science projects, Open Source contributions.
+
+**Skills:** Python, Pandas, NumPy, SQL, Power BI, Machine Learning Basics, Statistics. 
+
+Let's connect and learn together! 
+
+**This version shortens the descriptions and removes some repetitive information. It also uses emojis to make it more visually appealing.**
 
  🌱 I’m currently learning Data Science ...
 
