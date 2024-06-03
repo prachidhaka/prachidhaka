@@ -34,6 +34,8 @@ Insights:
 
 ![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/7d2950a5-c482-478a-9a01-6518949d6697)
 
+![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/d250d265-bec4-4377-afea-89e7ed2bf359)
+
 
 - Project 3: SQL queries for Retail customers.
 
