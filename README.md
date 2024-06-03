@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###**Prachi** 
+**I am Prachi** 
 
 
  🌱 I’m currently learning Data Science ...
