@@ -1,7 +1,8 @@
 ## Hi there 👋
 🌱 I’m currently learning Data Science ...                                                  
 
-                                                                                               Linkedin: https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
+Linkedin:                                                                                                   https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
+
 Here's what you'll find in my repositories:
 
 ## Table of Contents
