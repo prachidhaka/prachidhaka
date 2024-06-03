@@ -3,20 +3,27 @@
 
 Feel free to Connect via  **Linkedin:**   https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
 
+My Skills:
+
+Technical Skills:
+
+-SQL: Writing efficient queries to extract and manipulate data.
+
+-Excel: Data cleaning, analysis, and reporting using advanced functions.
+
+-Power BI: Building interactive dashboards and reports to visualize data insights.
+
+-Python: (Basic- Programming for data analysis tasks.)
+
+Passionate about Data Science: Eager to leverage my analytical skills and explore advanced techniques like Machine Learning and Statistics.
+
+Upskilling in Statistics & ML: Continuously expanding my knowledge to stay current with industry trends.
+
 Here's what you'll find in my repositories:
 
 ## Table of Contents
 
--Data Analysis Projects :
-
--Excel Projects :
-
--Power-bi Projects :
-
--SQL Projects:
-
--Python Projects:
-
+-Data Analysis Projects | -Excel Projects | -Power-bi Projects | -SQL Projects | -Python Projects:
 
 This repository showcases my data analysis & visualization skills using Excel, Power BI, Python & SQL. 
 
