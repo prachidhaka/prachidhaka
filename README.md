@@ -1,15 +1,22 @@
 ## Hi there 👋
 
+
+**Prachi** 
+
+
  🌱 I’m currently learning Data Science ...
 
-I'm passionate about **data analysis** and diving into the exciting world of **data science**. 
+I'm passionate about **data analysis** and diving into the exciting world of **data science**.
+**A collection of data analysis and visualization projects using Excel, Power BI, Python, and SQL. These projects showcase my skills in data manipulation, analysis, and dashboard creation.**
+ 
 Here's what you'll find in my repositories:
 
 ### 📊 Data Analysis Projects
+**Welcome to my data analysis and visualization projects repository! Here, you will find a collection of projects that showcase my skills in Excel, Power BI, Python, and SQL. Each project includes detailed descriptions, visualizations, and insights.**
 
 -Project 1: Data Analysis and Visualization :
+##In this project, I performed :
 
-Insights:
 -Analyzed traffic and behavior data to identify top-performing content categories—Animals (21.4%) and Science (20.3%)—and developed a data-driven content strategy.
 
 -Performed audience analysis to identify the highest user engagement in May (2,138) and optimized future campaign scheduling accordingly.
