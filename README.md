@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **Prachi** 
-
+**Welcome to my data analysis and visualization projects repository! Here, you will find a collection of projects that showcase my skills in Excel, Power BI, Python, and SQL. Each project includes detailed descriptions, visualizations, and insights.**
 
  🌱 I’m currently learning Data Science ...
 
@@ -9,11 +9,18 @@ I'm passionate about **data analysis** and diving into the exciting world of **d
 **A collection of data analysis and visualization projects using Excel, Power BI, Python, and SQL. These projects showcase my skills in data manipulation, analysis, and dashboard creation.**
  
 Here's what you'll find in my repositories:
+## Table of Contents
+
+- [Project 1: Content Strategy Optimization through Data Analysis:
+(https://www.linkedin.com/posts/prachi-dhaka-8921a81b2_business-problem-social-buzz-faced-challenges-activity-7203054628911874049-tpY_?utm_source=share&utm_medium=member_desktop)
+- [Project 2: Financial Dashboard in Power BI](#project-2-financial-dashboard-in-power-bi)
+- [Project 3: Customer Segmentation using Python](#project-3-customer-segmentation-using-python)
+- [Project 4: Database Management with SQL](#project-4-database-management-with-sql)
+
 
 ### 📊 Data Analysis Projects
-**Welcome to my data analysis and visualization projects repository! Here, you will find a collection of projects that showcase my skills in Excel, Power BI, Python, and SQL. Each project includes detailed descriptions, visualizations, and insights.**
 
--Project 1: Data Analysis and Visualization :
+-Project 1:Content Strategy Optimization through Data Analysis:
 ##In this project, I performed :
 
 -Analyzed traffic and behavior data to identify top-performing content categories—Animals (21.4%) and Science (20.3%)—and developed a data-driven content strategy.
@@ -67,12 +74,6 @@ Feel free to explore my repositories and connect with me! Let's learn and create
 
 Welcome to my data analysis and visualization projects repository! Here, you will find a collection of projects that showcase my skills in Excel, Power BI, Python, and SQL. Each project includes detailed descriptions, visualizations, and insights.
 
-## Table of Contents
-
-- [Project 1: Sales Analysis with Excel](#project-1-sales-analysis-with-excel)
-- [Project 2: Financial Dashboard in Power BI](#project-2-financial-dashboard-in-power-bi)
-- [Project 3: Customer Segmentation using Python](#project-3-customer-segmentation-using-python)
-- [Project 4: Database Management with SQL](#project-4-database-management-with-sql)
 
 ## Project 1: Sales Analysis with Excel
 
