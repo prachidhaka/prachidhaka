@@ -117,31 +117,3 @@ Let's connect and learn together!
 
 
 
-
-'''
-4. Folder Structure
-Organize your repository with folders for each project and subfolders for data, scripts, and images.
-
-copy
-data-analysis-projects/
-│
-├── README.md
-├── images/
-│   ├── sales_dashboard.png
-│   ├── financial_dashboard.png
-│   ├── customer_segmentation.png
-│   └── sql_analysis.png
-├── data/
-│   ├── sales_data.xlsx
-│   ├── customer_data.csv
-│   └── (other data files)
-├── files/
-│   ├── sales_dashboard.xlsx
-│   ├── financial_dashboard.pbix
-│   └── (other file types)
-└── scripts/
-    ├── customer_segmentation.py
-    ├── sql_queries.sql
-    └── (other scripts)
-
-'''
