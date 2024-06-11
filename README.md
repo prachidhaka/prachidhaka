@@ -53,8 +53,7 @@ https://github.com/prachidhaka/Excel/blob/main/Consumer%20complaint%20analysis%2
 ![Screenshot 2024-06-03 221622](https://github.com/prachidhaka/prachidhaka/assets/100430962/82ab637f-69ed-4674-829a-e6bb0b019c40)
 
 
-2- Content Strategy Optimization (Traffic & Audience Analysis) :
-
+2- Audience Analysis and Engagement Optimization:
 ## In this project, I performed :
 
 -Analyzed traffic and behavior data to identify top-performing content categories—Animals (21.4%) and Science (20.3%)—and developed a data-driven content strategy.
