@@ -33,20 +33,7 @@ This repository showcases my data analysis & visualization skills using Excel, P
 
 ### In this project, I performed 
 
-### Key Skills:
--Data Gathering 
-
--Pivot Tables
-
--Data Cleaning 
-
--Data Analysis
-
--Visualization
-
--Reporting 
-
--Interactive Dashboards
+### Key Skills: -Data Gathering |-Pivot Tables|-Data Cleaning|-Data Analysis|-Visualization|-Reporting|-Interactive Dashboards
 
 https://github.com/prachidhaka/Excel/blob/main/Consumer%20complaint%20analysis%20.xlsx
 
