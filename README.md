@@ -7,13 +7,13 @@ My Skills:
 
 Technical Skills:
 
--SQL: Writing efficient queries to extract and manipulate data.
+- SQL: Proficient in writing efficient queries for data extraction and manipulation.  
 
--Excel: Data cleaning, analysis, and reporting using advanced functions.
+-Excel: Experienced in data cleaning, analysis, and reporting using advanced functions. 
 
--Power BI: Building interactive dashboards and reports to visualize data insights.
+-Power BI: Skilled in creating interactive dashboards and reports to visualize data insights.
 
--Python: (Basic- Programming for data analysis tasks.)
+-Python: Basic programming for data analysis tasks.
 
 Passionate about Data Science: Eager to leverage my analytical skills and explore advanced techniques like Machine Learning and Statistics.
 
@@ -31,7 +31,9 @@ This repository showcases my data analysis & visualization skills using Excel, P
 
 1- Consumer Complaint analysis 
 
-### In this project, I performed 
+### In this project, I performed :
+
+I conducted a comprehensive consumer complaint analysis.
 
 ### Key Skills: -Data Gathering |-Pivot Tables|-Data Cleaning|-Data Analysis|-Visualization|-Reporting|-Interactive Dashboards
 
