@@ -9,11 +9,11 @@ Technical Skills:
 
 - SQL: Proficient in writing efficient queries for data extraction and manipulation.  
 
--Excel: Experienced in data cleaning, analysis, and reporting using advanced functions. 
+- Excel: Experienced in data cleaning, analysis, and reporting using advanced functions. 
 
--Power BI: Skilled in creating interactive dashboards and reports to visualize data insights.
+- Power BI: Skilled in creating interactive dashboards and reports to visualize data insights.
 
--Python: Basic programming for data analysis tasks.
+- Python: Basic programming for data analysis tasks.
 
 Passionate about Data Science: Eager to leverage my analytical skills and explore advanced techniques like Machine Learning and Statistics.
 
