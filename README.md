@@ -1,5 +1,4 @@
 ## Hi there 👋
-githubread
 
 🌱 I’m currently learning Data Science ...                                                  
 
