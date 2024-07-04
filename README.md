@@ -1,4 +1,4 @@
-#                                                                                                    Hi there! 👋
+#  Hi there! 👋
 
 I'm Prachi Dhaka| 📊 Data enthusiast proficient in SQL, Excel, Python, and Power BI, specializing in analytics, visualization, and ML.
 
