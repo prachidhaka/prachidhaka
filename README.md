@@ -35,7 +35,7 @@ In this project:
 - Analyzed over 10,000 consumer complaints, created an Excel dashboard, and provided insights to improve customer service.
 
 Project Link: https://shorturl.at/DjWaQ
-![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/4204ea95-2841-45fb-a0f0-74cd8d45bc3c)
+![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/ebd8cee1-72ca-4698-a57f-5a9186404018)
 
 
 ## Retail Data Analysis (SQL) | September 2023
