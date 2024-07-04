@@ -9,7 +9,8 @@ My expertise lies in:
 Documents: https:https://linktr.ee/prachidhaka
 
 #### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-#### Skills & Badges
+
+####🚀 Skills & Badges
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Visual%20Analytics-orange)
@@ -72,13 +73,7 @@ I'm open to collaboration on data analysis and data science projects. Let's conn
 LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-dhaka-8921a81b2/)
 
 
-🚀 Skills
 
-Technical Skills: SQL, Excel, Power BI, Python
-
-Key Skills: Data Cleaning, Data Analysis, Data Visualization, Interactive Dashboards, DAX, Data Preprocessing
-
-Continuous Learning: Machine Learning, Statistics
 
 # 🎓 Education
 
@@ -87,13 +82,7 @@ Continuous Learning: Machine Learning, Statistics
 - B.Com, CCS University (Meerut) | 2022
 - Senior Secondary, CBSE (Kendriya Vidyalaya No.2 AFS Hindan) | 2019
 
-# 🔧 Tools
 
-- Languages: Python, SQL
-- Libraries: Pandas, NumPy
-- Visualization Tools: Matplotlib, Seaborn, Power BI
-- Other Tools: Jupyter Notebook, VS Code, Azure Data Studio
-- Version Control: Git, GitHub
 
 # 🤝 Let's Collaborate
 
