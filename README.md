@@ -1,9 +1,8 @@
-# Hi there! 👋
+                                                  # Hi there! 👋
 
-I'm Prachi Dhaka, a data science enthusiast with a strong analytical background and a passion for transforming raw data into actionable insights. With proficiency in tools like SQL, Excel, Power BI, and Python, I excel in data analysis, visualization, and statistical methods. Currently, I'm expanding my knowledge in Machine Learning and Statistics to stay ahead in the field.
+I'm Prachi Dhaka| 📊 Data enthusiast proficient in SQL, Excel, Python, and Power BI, specializing in analytics, visualization, and ML.
 
-
-# 🌱 About Me
+##🌱 About Me
 I'm an analytically skilled B.Com graduate with excellent communication skills.
 My expertise lies in:
 
