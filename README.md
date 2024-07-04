@@ -10,6 +10,8 @@ My expertise lies in:
 Documents: https:https://linktr.ee/prachidhaka
 
 # [![GitHub stars](https://img.shields.io/github/stars/prachidhaka?style=social)](https://github.com/prachidhaka?tab=repositories)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shubhangimishra&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 Languages and Databases: Python, Pandas, NumPy, SQL, MySQL
