@@ -3,8 +3,8 @@
 I'm Prachi Dhaka| 📊 Data enthusiast proficient in SQL, Excel, Python, and Power BI, specializing in analytics, visualization, and ML.
 
 ##🌱 About Me
+
 I'm an analytically skilled B.Com graduate with excellent communication skills.
-My expertise lies in:
 
 Documents: https:https://linktr.ee/prachidhaka
 
