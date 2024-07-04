@@ -1,107 +1,60 @@
-## Hi there 👋
+Hi there! 👋
+I'm Prachi Dhaka, a data science enthusiast with a strong analytical background and a passion for transforming raw data into actionable insights. With proficiency in tools like SQL, Excel, Power BI, and Python, I excel in data analysis, visualization, and statistical methods. Currently, I'm expanding my knowledge in Machine Learning and Statistics to stay ahead in the field.
 
-🌱 I’m currently learning Data Science ...                                                  
+🌱 About Me
+I'm an analytically skilled B.Com graduate with excellent communication skills. My expertise lies in:
 
-Feel free to Connect via  **Linkedin:**   https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
+Languages and Databases: Python, Pandas, NumPy, SQL, MySQL
+Visualization Tools: Power BI
+Other Skills: MS Excel, Business Analysis, Data Analysis
+🔭 Experience
+Data Analyst (Virtual Internship) at Accenture | MAY 2024 – JUNE 2024 | DELHI - NCR, INDIA
 
-My Skills:
+Analyzed traffic data to reveal top-performing content categories and developed a data-driven content strategy.
+Identified peak user engagement and optimized future campaign schedules accordingly.
+Expanded content library diversity with 16 distinct categories to enhance user experience and engagement.
+Certification
+NGO Volunteer | FEB 2023 - APRIL 2023 | DELHI - NCR, INDIA
 
-Technical Skills:
+Involved in community outreach, event coordination, project management, and stakeholder engagement.
+📊 Projects
+Data Analysis - Hotel Booking (Python) | June 2024
 
-- SQL: Proficient in writing efficient queries for data extraction and manipulation.  
+Analyzed reservation cancellations, booking comparisons between city and resort hotels, and ADR variations.
+Project Link
+Consumer Complaint Analysis (Excel) | January 2024
 
-- Excel: Experienced in data cleaning, analysis, and reporting using advanced functions. 
+Analyzed over 10,000 consumer complaints, created an Excel dashboard, and provided insights to improve customer service.
+Project Link
+Retail Data Analysis (SQL) | September 2023
 
-- Power BI: Skilled in creating interactive dashboards and reports to visualize data insights.
+Leveraged SQL in SSMS to analyze a retail dataset, identifying trends and generating actionable insights.
+Project Link
+E-commerce Sales Analysis (Power BI) | November 2023
 
-- Python: Basic programming for data analysis tasks.
+Used Power BI for stock optimization, targeted discounts, and customer analysis to boost revenue.
+Project Link
+👯 Connect with Me
+I'm open to collaboration on data analysis and data science projects. Let's connect and learn together!
 
-Passionate about Data Science: Eager to leverage my analytical skills and explore advanced techniques like Machine Learning and Statistics.
-
-Upskilling in Statistics & ML: Continuously expanding my knowledge to stay current with industry trends.
-
-Here's what you'll find in my repositories:
-
-## Table of Contents
-
--Data Analysis Projects | -Excel Projects | -Power-bi Projects | -SQL Projects | -Python Projects:
-
-This repository showcases my data analysis & visualization skills using Excel, Power BI, Python & SQL. 
-
-### 📊 Excel:-
-
-1- Consumer Complaint analysis 
-
-### In this project, I performed :
-
-I conducted a comprehensive consumer complaint analysis.
-
-### Key Skills: -Data Gathering |-Pivot Tables|-Data Cleaning|-Data Analysis|-Visualization|-Reporting|-Interactive Dashboards
-
-https://github.com/prachidhaka/Excel/blob/main/Consumer%20complaint%20analysis%20.xlsx
-
-![Screenshot 2024-06-03 221622](https://github.com/prachidhaka/prachidhaka/assets/100430962/82ab637f-69ed-4674-829a-e6bb0b019c40)
-
-
-2- Audience Analysis and Engagement Optimization:
-## In this project, I performed :
-
--Analyzed traffic and behavior data to identify top-performing content categories—Animals (21.4%) and Science (20.3%)—and developed a data-driven content strategy.
-
--Performed audience analysis to identify the highest user engagement in May (2,138) and optimized future campaign scheduling accordingly.
-
--Classified content into 16 distinct categories to increase content library diversity and improve user experience.
-
--Analyzed user engagements (1,897 reactions on Animal content) to personalize content and increase audience engagement.
-
-
-![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/000eb264-a1d5-487d-9cbd-54ea0b4c9710)
-
-
-### Power-Bi:-
-
-https://github.com/prachidhaka/Power--BI
-
-### Key Skills
-
-- Data Visualization
-
-- DAX (Data Analysis Expressions)
-
-- Interactive Reports
-
-### SQL:-
-
-https://github.com/prachidhaka/SQL
-
-### Key Skills
-
-- Database Design
-
-- SQL Queries
-
-- Data Manipulation
-
-
-### Python:-
-
-https://github.com/prachidhaka/Python/blob/main/Retail%20Data%20Analysis%20(Project).ipynb
-
-### Key Skills
-
-- Data Preprocessing
-
-- Data Visualization
-
-
-
-**Learning:** Data Science Specialization (Machine Learning, Statistics ) 
-
-**Open to:** Collaboration on Data Analysis & Data Science projects
-
-**Skills:** Python | Pandas | NumPy | SQL | Power BI | Machine Learning Basics, Statistics. 
-
-Let's connect and learn together! 
+LinkedIn
+Documents
+🚀 Skills
+Technical Skills: SQL, Excel, Power BI, Python
+Key Skills: Data Cleaning, Data Analysis, Data Visualization, Interactive Dashboards, DAX, Data Preprocessing
+Continuous Learning: Machine Learning, Statistics
+🎓 Education
+Certified Data Analyst, AnalytixLabs | April 2023 – June 2024
+B.Com, CCS University (Meerut) | 2022
+Senior Secondary, CBSE (Kendriya Vidyalaya No.2 AFS Hindan) | 2019
+🔧 Tools
+Languages: Python, SQL
+Libraries: Pandas, NumPy
+Visualization Tools: Matplotlib, Seaborn, Power BI
+Other Tools: Jupyter Notebook, VS Code, Azure Data Studio
+Version Control: Git, GitHub
+🤝 Let's Collaborate
+I'm eager to work on exciting data analysis and data science projects. Feel free to reach out if you have any questions or opportunities!
 
 
 
