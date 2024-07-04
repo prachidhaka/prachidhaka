@@ -36,7 +36,7 @@ In this project:
 
 Project Link: https://shorturl.at/DjWaQ
 
-[![Resume Image](https://raw.githubusercontent.com/prachidhaka/prachidhaka/main/assets/100430962/041b11a2-39c4-4597-8d0f-9c3394fe3c9d)](https://github.com/prachidhaka/prachidhaka)
+![Screenshot 2024-06-06 234402](https://github.com/prachidhaka/prachidhaka/assets/100430962/b5fd13b6-da63-47ea-a35b-b5907ff7d216)
 
 
 ## Retail Data Analysis (SQL) | September 2023
