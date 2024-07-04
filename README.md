@@ -7,7 +7,7 @@ I'm Prachi Dhaka, a data science enthusiast with a strong analytical background 
 I'm an analytically skilled B.Com graduate with excellent communication skills.
 My expertise lies in:
 
-Documents: https://linktr.ee/prachidhaka
+Documents: https:https://linktr.ee/prachidhaka
 
 Languages and Databases: Python, Pandas, NumPy, SQL, MySQL
 
