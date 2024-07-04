@@ -9,9 +9,11 @@ My expertise lies in:
 Documents: https:https://linktr.ee/prachidhaka
 
 #### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Visual%20Analytics-orange)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Strategic%20Insights-yellow)
 
 
 Languages and Databases: Python, Pandas, NumPy, SQL, MySQL
