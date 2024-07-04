@@ -62,7 +62,8 @@ Project Link: https://shorturl.at/7aB36
 
 I'm open to collaboration on data analysis and data science projects. Let's connect and learn together!
 
-LinkedIn : https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-dhaka-8921a81b2/
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-dhaka-8921a81b2/)
+
 
 🚀 Skills
 
