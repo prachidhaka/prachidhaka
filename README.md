@@ -1,27 +1,38 @@
-Hi there! 👋
+# Hi there! 👋
+
 I'm Prachi Dhaka, a data science enthusiast with a strong analytical background and a passion for transforming raw data into actionable insights. With proficiency in tools like SQL, Excel, Power BI, and Python, I excel in data analysis, visualization, and statistical methods. Currently, I'm expanding my knowledge in Machine Learning and Statistics to stay ahead in the field.
 
-🌱 About Me
+
+# 🌱 About Me
 I'm an analytically skilled B.Com graduate with excellent communication skills. My expertise lies in:
 
-Languages and Databases: Python, Pandas, NumPy, SQL, MySQL
+
+Languages and Databases: 
+
+Python, Pandas, NumPy, SQL, MySQL
+
 Visualization Tools: Power BI
+
 Other Skills: MS Excel, Business Analysis, Data Analysis
-🔭 Experience
+
+
+# 🔭 Experience
+
 Data Analyst (Virtual Internship) at Accenture | MAY 2024 – JUNE 2024 | DELHI - NCR, INDIA
 
-Analyzed traffic data to reveal top-performing content categories and developed a data-driven content strategy.
-Identified peak user engagement and optimized future campaign schedules accordingly.
-Expanded content library diversity with 16 distinct categories to enhance user experience and engagement.
-Certification
-NGO Volunteer | FEB 2023 - APRIL 2023 | DELHI - NCR, INDIA
+- Analyzed traffic data to reveal top-performing content categories and developed a data-driven content strategy.
 
-Involved in community outreach, event coordination, project management, and stakeholder engagement.
+- Identified peak user engagement and optimized future campaign schedules accordingly.
+- Expanded content library diversity with 16 distinct categories to enhance user experience and engagement.
+
+
 📊 Projects
-Data Analysis - Hotel Booking (Python) | June 2024
 
-Analyzed reservation cancellations, booking comparisons between city and resort hotels, and ADR variations.
-Project Link
+### Data Analysis - Hotel Booking (Python) | June 2024
+
+- Analyzed reservation cancellations, booking comparisons between city and resort hotels, and ADR variations.
+Project Link :https://shorturl.at/o5aBV
+
 Consumer Complaint Analysis (Excel) | January 2024
 
 Analyzed over 10,000 consumer complaints, created an Excel dashboard, and provided insights to improve customer service.
