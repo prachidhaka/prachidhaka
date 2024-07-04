@@ -8,9 +8,7 @@ My expertise lies in:
 
 Documents: https:https://linktr.ee/prachidhaka
 
-# ![GitHub followers](https://img.shields.io/github/followers/prachidhaka?label=Followers&style=social)
-
-### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+#### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
