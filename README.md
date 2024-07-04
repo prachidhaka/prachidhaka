@@ -9,6 +9,9 @@ My expertise lies in:
 
 Documents: https:https://linktr.ee/prachidhaka
 
+[![GitHub stars](https://img.shields.io/github/stars/prachidhaka?style=social)](https://github.com/prachidhaka?tab=repositories)
+
+
 Languages and Databases: Python, Pandas, NumPy, SQL, MySQL
 
 Visualization Tools: Power BI
