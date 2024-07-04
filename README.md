@@ -29,7 +29,8 @@ In this project:
 - Analyzed over 10,000 consumer complaints, created an Excel dashboard, and provided insights to improve customer service.
 
 Project Link: https://shorturl.at/DjWaQ
-https://github.com/prachidhaka/Excel/blob/main/Consumer%20complaint%20analysis%20.xlsx
+![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/4204ea95-2841-45fb-a0f0-74cd8d45bc3c)
+
 
 ## Retail Data Analysis (SQL) | September 2023
 
@@ -41,6 +42,9 @@ Project Link: https://shorturl.at/qF4ZI
 ## Audience Analysis and Engagement Optimization Project
 
 Project link: (https://shorturl.at/8gJJE)
+
+![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/4dc78210-20f9-4821-914d-5312baf74625)
+
 
 In this project:
 - Analyzed traffic and behavior data to identify top-performing content categories.
