@@ -81,6 +81,7 @@ LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-t
 - Certified Data Analyst, AnalytixLabs | April 2023 – June 2024
 
 - B.Com, CCS University (Meerut) | 2022
+  
 - Senior Secondary, CBSE (Kendriya Vidyalaya No.2 AFS Hindan) | 2019
 
 
