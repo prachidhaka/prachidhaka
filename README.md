@@ -15,6 +15,8 @@ Documents: https:https://linktr.ee/prachidhaka
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green)
 ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Strategic%20Insights-yellow)
 
+### [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachidhaka&show_icons=true&theme=radical)](https://github.com/prachidhaka)
+
 
 Languages and Databases: Python, Pandas, NumPy, SQL, MySQL
 
