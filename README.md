@@ -50,7 +50,7 @@ Project Link: https://shorturl.at/qF4ZI
 
 Project link: (https://shorturl.at/8gJJE)
 
-![image](https://github.com/prachidhaka/prachidhaka/assets/100430962/4dc78210-20f9-4821-914d-5312baf74625)
+![345706911-4dc78210-20f9-4821-914d-5312baf74625](https://github.com/prachidhaka/prachidhaka/assets/100430962/a5ce487f-ef7e-4ee6-97f7-8d3e14871ba3)
 
 
 In this project:
