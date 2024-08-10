@@ -10,23 +10,11 @@ Documents: https:https://linktr.ee/prachidhaka
 
 #### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### 🚀 Skills & Badges
-
-## 🚀 Technologies & Skills
-
-### Programming Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="30"/>
-
-### Tools & Platforms
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="30"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" height="30"/>
-
 ## 🚀 Technologies & Skills
 
 ### Python & Libraries
 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Beginner-blue?style=for-the-badge&logo=python&logoColor=white)
 
 Libraries:  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-green?style=flat-square&logo=pandas&logoColor=white)
@@ -44,7 +32,7 @@ Libraries:
 
 ### Data Analysis & Visualization
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Analytical%20Insights-green?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Beginner-green?style=for-the-badge&logo=databricks&logoColor=white)
 
 Tools:  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Visual%20Analytics-orange?style=flat-square&logo=powerbi&logoColor=black)
@@ -52,42 +40,24 @@ Tools:
 
 <br>
 
-### Machine Learning
+### Machine Learning & Stats
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-blueviolet?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Beginner-blueviolet?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 Libraries:  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Modeling%20%7C%20Algorithms-orange?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Beginner-orange?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Beginner-orange?style=flat-square&logo=tensorflow&logoColor=white)
+
+Stats Skills:  
+![Statistics](https://img.shields.io/badge/Statistics-Beginner-lightgrey?style=flat-square)
 
 <br>
 
 ### Business Analysis
 
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Strategic%20Insights-yellow?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-Skills:  
-- Requirements Gathering
-- Process Improvement
-- Stakeholder Engagement
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Beginner-yellow?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 <br>
-
-### Version Control & Collaboration
-
-![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-orange?style=for-the-badge&logo=git&logoColor=white)
-
-Tools:  
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-
-
-
-
-
 
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
