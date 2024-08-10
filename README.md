@@ -12,9 +12,15 @@ Documents: https:https://linktr.ee/prachidhaka
 
 #### 🚀 Skills & Badges
 
-### Languages & Frameworks
+## 🚀 Technologies & Skills
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="30"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/>
+### Programming Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="30"/>
+
+### Tools & Platforms
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="30"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" height="30"/>
 
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
