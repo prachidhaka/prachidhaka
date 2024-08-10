@@ -12,59 +12,36 @@ Documents: https:https://linktr.ee/prachidhaka
 
 ## 🚀 Technologies & Skills
 
-### Python & Libraries
-
-![Python](https://img.shields.io/badge/Python-Beginner-blue?style=for-the-badge&logo=python&logoColor=white)
-
-Libraries:  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-green?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-red?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue?style=flat-square&logo=plotly&logoColor=white)
-
-<br>
-
-### SQL & Databases
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
 ### Data Analysis & Visualization
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Beginner-green?style=for-the-badge&logo=databricks&logoColor=white)
+- **Excel:**
+  - ![MS Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- **SQL:**
+  - ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+- **Power BI:**
+  - ![Power BI](https://img.shields.io/badge/Power%20BI-Visual%20Analytics-orange?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Tools:  
-![Power BI](https://img.shields.io/badge/Power%20BI-Visual%20Analytics-orange?style=flat-square&logo=powerbi&logoColor=black)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green?style=flat-square&logo=microsoftexcel&logoColor=white)
+### Python
 
-<br>
+- **Libraries:**
+  - ![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-green?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-red?style=for-the-badge&logo=plotly&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Machine Learning & Stats
+### Statistics & Mathematics
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Beginner-blueviolet?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- **Skills:**
+  - ![Statistics](https://img.shields.io/badge/Statistics-Basic%20Analysis-lightgrey?style=for-the-badge)
+  - ![Math](https://img.shields.io/badge/Math-Probability%20%7C%20Linear%20Algebra-blueviolet?style=for-the-badge)
 
-Libraries:  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Beginner-orange?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Beginner-orange?style=flat-square&logo=tensorflow&logoColor=white)
+### Machine Learning
 
-Stats Skills:  
-![Statistics](https://img.shields.io/badge/Statistics-Beginner-lightgrey?style=flat-square)
+- **Libraries:**
+  - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Modeling%20%7C%20Algorithms-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<br>
-
-### Business Analysis
-
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Beginner-yellow?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visual%20Analytics-orange)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Analytical%20Insights-green)
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Strategic%20Insights-yellow)
+---
 
 
 ### [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachidhaka&show_icons=true&theme=tokyonight)](https://github.com/prachidhaka)
