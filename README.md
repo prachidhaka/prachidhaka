@@ -11,7 +11,10 @@ Documents: https:https://linktr.ee/prachidhaka
 #### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 🚀 Skills & Badges
-![Hono](https://img.shields.io/badge/Hono-yellowgreen?style=flat)
+
+### Languages & Frameworks
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="30"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/>
 
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
