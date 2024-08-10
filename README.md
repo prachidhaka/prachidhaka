@@ -91,6 +91,12 @@ In this project:
 
 Project Link: https://shorturl.at/7aB36
 
+### Data Analysis - Hotel Booking
+[Data Analysis - Hotel Booking](https://github.com/prachidhaka/Python/blob/main/Data%20Analysis%20-%20Hotel%20Booking.ipynb)
+An analysis of hotel booking data using Python. This project includes data cleaning, visualization, and insightful analysis of booking patterns and trends.
+
+
+
 👯 Connect with Me
 
 I'm open to collaboration on data analysis and data science projects. Let's connect and learn together!
