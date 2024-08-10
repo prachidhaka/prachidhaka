@@ -11,6 +11,7 @@ Documents: https:https://linktr.ee/prachidhaka
 #### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 🚀 Skills & Badges
+![Hono](https://img.shields.io/badge/Hono-yellowgreen?style=flat)
 
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
