@@ -4,9 +4,9 @@ I'm Prachi Dhaka| 📊 Data enthusiast proficient in SQL, Excel, Python, and Pow
 
 ##🌱 About Me
 
-I'm an analytically skilled B.Com graduate with excellent communication skills.
+Analytically skilled B.Com graduate with excellent communication skills.
 
-Documents: https:https://linktr.ee/prachidhaka
+Documents: https://linktr.ee/prachidhaka
 
 #### [![Trophies](https://github-profile-trophy.vercel.app/?username=prachidhaka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
