@@ -60,7 +60,8 @@ Project Link: https://shorturl.at/o5aBV
 In this project:
 - Analyzed over 10,000 consumer complaints, created an Excel dashboard, and provided insights to improve customer service.
 
-Project Link: https://shorturl.at/DjWaQ
+Project Link: 
+https://drive.google.com/file/d/1iaB5shTyB4N0RoCfqhZm164oJxzWwa5m/view?usp=drive_link
 
 ![Screenshot 2024-06-06 234402](https://github.com/prachidhaka/prachidhaka/assets/100430962/b5fd13b6-da63-47ea-a35b-b5907ff7d216)
 
