@@ -35,11 +35,6 @@ Documents: https://linktr.ee/prachidhaka
   - ![Statistics](https://img.shields.io/badge/Statistics-Basic%20Analysis-lightgrey?style=for-the-badge)
   - ![Math](https://img.shields.io/badge/Math-Probability%20%7C%20Linear%20Algebra-blueviolet?style=for-the-badge)
 
-### Machine Learning
-
-- **Libraries:**
-  - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Modeling%20%7C%20Algorithms-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
